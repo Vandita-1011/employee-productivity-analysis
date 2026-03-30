@@ -102,10 +102,10 @@ data/cleaned_employee_data.csv
 
  Team Contribution
 
-- Member 1: Data preprocessing & feature engineering
-- Member 2: Exploratory data analysis
-- Member 3: Statistical testing
-- Member 4: Insights & reporting
+- Vandita : Data preprocessing & feature engineering
+- Shivani : Exploratory data analysis
+- Muskan : Statistical testing
+- Surakshitha : Insights & reporting
 
 ---
 
